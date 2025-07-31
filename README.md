@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/emanuel_roma14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emanuel_roma14" height="30" width="40" /></a>
+<a href="https://twitter.com/emanuel_roma14" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/640px-X_icon.svg.png" alt="emanuel_roma14" height="30" width="40" /></a>
 <a href="linkedin.com/in/heber-emanuel-rodríguez-martínez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuel rodríguez" height="30" width="40" /></a>
 </p>
 
