@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emanuel</h1>
 <h3 align="center">Computer Systems Engineering Student</h3>
 
-- 🔭 I’m currently working on [Evolutionary computation research](https://github.com/Emanuel-TC/C-mputoEvolutivo.git)
+- 🔭 I’m currently studying [Evolutionary computation research](https://github.com/Emanuel-TC/C-mputoEvolutivo.git)
 
-- 🌱 I’m currently learning **cybersecurity**
+- 🌱 I’m currently working as **data scientist**
 
 - 📫 How to reach me **heberemanuelroma@gmail.com**
 
